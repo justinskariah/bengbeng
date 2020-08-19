@@ -53,4 +53,6 @@ jobs:
     - name: Run a multi-line script
       run: |
         echo Add other actions to build,
+        echo Sleeping
+        sleep 50
         echo test, and deploy your project.
