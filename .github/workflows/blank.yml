@@ -38,6 +38,7 @@ jobs:
     runs-on: 
       - prod-deploy
       - self-hosted  
+      - no-runner
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
