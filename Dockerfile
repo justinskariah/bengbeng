@@ -1,2 +1,2 @@
-FROM busybox
-RUN echo "Busybox!!"
+FROM ubuntu:18.04
+RUN echo "ubuntu!!"
