@@ -1,2 +1,1 @@
-FROM ubuntu:18.04
-RUN echo "ubuntu!!"
+FROM node:10.15.0
